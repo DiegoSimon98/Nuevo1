@@ -1,0 +1,68 @@
+
+.quiensoy, .formacion, .experiencia, .portfolio{
+padding: 30px 25px 10px 25px;
+margin-bottom: 20px;
+background-color: white;
+border-radius: 30px;
+}
+
+h1{
+  color: rgb(131, 184, 252);
+  font-size: 20px;
+  padding: 10px 90px 2px 10px;
+  border-bottom: 2px solid rgb(131, 184, 252);
+
+}
+h2{
+  color: rgb(87, 146, 222);
+  margin-top:10px;
+font-size: 50px;
+margin-bottom:0px;
+font-family: courier;
+}
+h3{
+color: rgba(221, 65, 65, 0.94);
+font-size: 15;
+  margin-top:10px;
+}
+.derecha li.dif{
+  border-bottom: 1px solid pink;
+  list-style: none;
+text-transform: uppercase;
+}
+.derecha ul.dif{
+  padding: 0;
+}
+.izquierda li{
+  list-style: none;
+}
+.izquierda ul{
+  padding: 0;
+}
+body{
+  background: rgba(67, 74, 33, 0.10);
+
+}
+.derecha{
+  float: right;
+  background: ;/*control alt c*/
+
+margin-top: 20px;
+margin-right: 5%;
+ width: 60%;
+}
+.izquierda{
+  float: left;
+  width: 25%;
+  margin-right: 0%;
+  margin-left: 5%;
+  margin-top: 20px;;
+  position: fixed;
+}
+.izquierda li{
+margin-bottom: 10px;
+
+}
+img{
+width: 100%;
+}
